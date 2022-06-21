@@ -5,8 +5,9 @@
       <map>
         <entry key="..\:/Projects/AndroidProjects/TestProjects/NewsAppWithMVVM/app/src/main/res/layout/activity_main.xml" value="0.184375" />
         <entry key="..\:/Projects/AndroidProjects/TestProjects/NewsAppWithMVVM/app/src/main/res/layout/fragment_info.xml" value="0.28020833333333334" />
-        <entry key="..\:/Projects/AndroidProjects/TestProjects/NewsAppWithMVVM/app/src/main/res/layout/fragment_news.xml" value="0.17604166666666668" />
+        <entry key="..\:/Projects/AndroidProjects/TestProjects/NewsAppWithMVVM/app/src/main/res/layout/fragment_news.xml" value="0.25" />
         <entry key="..\:/Projects/AndroidProjects/TestProjects/NewsAppWithMVVM/app/src/main/res/layout/fragment_saved.xml" value="0.28020833333333334" />
+        <entry key="..\:/Projects/AndroidProjects/TestProjects/NewsAppWithMVVM/app/src/main/res/layout/new_list_item.xml" value="0.30434782608695654" />
         <entry key="..\:/Projects/AndroidProjects/TestProjects/NewsAppWithMVVM/app/src/main/res/menu/bottom_menu.xml" value="0.2791666666666667" />
       </map>
     </option>
