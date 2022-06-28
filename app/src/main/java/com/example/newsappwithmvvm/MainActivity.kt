@@ -7,10 +7,10 @@ import androidx.lifecycle.ViewModelProvider
 import androidx.navigation.findNavController
 import androidx.navigation.fragment.NavHostFragment
 import androidx.navigation.ui.setupWithNavController
+import com.anushka.newsapiclient.presentation.viewmodel.NewsViewModelFactory
 import com.example.newsappwithmvvm.databinding.ActivityMainBinding
 import com.example.newsappwithmvvm.presentation.adapter.NewsAdapter
 import com.example.newsappwithmvvm.presentation.viewmodel.NewsViewModel
-import com.example.newsappwithmvvm.presentation.viewmodel.NewsViewModelFactory
 import dagger.hilt.android.AndroidEntryPoint
 import javax.inject.Inject
 
